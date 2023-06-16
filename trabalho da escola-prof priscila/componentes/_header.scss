@@ -1,0 +1,37 @@
+h1 {
+    display: flex;
+    justify-content: center;
+
+    .logo {
+
+        width: 25%;
+        margin: 10px;
+
+    }
+}
+
+.navegacao {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 42px;
+
+
+    li {
+        display: inline-block;
+        padding: 1.5rem;
+        font-size: 29px;
+
+
+
+
+        a {
+            color: #F7E1AE;
+
+            text-decoration: none;
+
+            &:hover {
+                border-bottom: 2px solid yellow;
+            }
+        }
+    }
+}

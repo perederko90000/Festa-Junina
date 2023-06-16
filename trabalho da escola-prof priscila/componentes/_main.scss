@@ -1,0 +1,150 @@
+.festa-junina {
+    text-align: center;
+    padding: 1.5rem;
+    font-size: 25px;
+    color: yellow;
+
+    h2 {
+        font-size: 28px;
+        margin: 15px;
+        border-bottom: 4px solid white;
+    }
+}
+
+.vendemos-oq {
+    text-align: center;
+    color: yellow;
+    padding: 1.5rem;
+
+    h2 {
+        border-left: 3px solid white;
+        font-size: 29px;
+        margin: 20px;
+    }
+
+    p {
+        font-size: 24px;
+
+    }
+
+}
+
+.bolo-principal {
+    text-align: center;
+
+    h1 {
+        display: flex;
+        justify-content: center;
+
+
+    }
+
+    h3 {
+
+        font-size: 35px;
+        margin: 19px;
+        color: yellow;
+        border-bottom: 3px solid white;
+
+    }
+
+    p {
+        font-size: 28px;
+        margin: 30px;
+        color: yellow;
+        margin: 30px;
+
+    }
+
+
+    .bolo {
+        width: 40%;
+
+    }
+}
+
+.pe-de-moleque-principal {
+    text-align: center;
+
+    h1 {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    h3 {
+
+        font-size: 35px;
+        margin: 19px;
+        color: yellow;
+        border-bottom: 3px solid white;
+
+    }
+
+    p {
+        font-size: 28px;
+        margin: 30px;
+        color: yellow;
+
+
+    }
+
+
+    .pe-de-moleque {
+        width: 40%;
+
+    }
+}
+
+
+
+.cocada-principal {
+    text-align: center;
+
+    h1 {
+        display: flex;
+        justify-content: center;
+
+
+    }
+
+    h3 {
+
+        font-size: 35px;
+        margin: 19px;
+        color: yellow;
+        border-bottom: 5px solid white;
+
+    }
+
+    p {
+        font-size: 28px;
+        margin: 30px;
+        color: yellow;
+
+
+    }
+
+
+    .cocada {
+        width: 40%;
+
+    }
+
+}
+
+.botao-venda {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+
+    h3 {
+        background-color: black;
+        border-radius: 40px;
+        margin: 50px;
+        padding: 1.5rem;
+
+        color: yellow;
+
+    }
+}

@@ -1,0 +1,147 @@
+html,
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(117, 0, 0);
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+h1 .logo {
+  width: 25%;
+  margin: 10px;
+}
+
+.navegacao {
+  display: flex;
+  justify-content: center;
+  margin: 0 0 0 42px;
+}
+.navegacao li {
+  display: inline-block;
+  padding: 1.5rem;
+  font-size: 29px;
+}
+.navegacao li a {
+  color: #F7E1AE;
+  text-decoration: none;
+}
+.navegacao li a:hover {
+  border-bottom: 2px solid yellow;
+}
+
+.festa-junina {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 25px;
+  color: yellow;
+}
+.festa-junina h2 {
+  font-size: 28px;
+  margin: 15px;
+  border-bottom: 4px solid white;
+}
+
+.vendemos-oq {
+  text-align: center;
+  color: yellow;
+  padding: 1.5rem;
+}
+.vendemos-oq h2 {
+  border-left: 3px solid white;
+  font-size: 29px;
+  margin: 20px;
+}
+.vendemos-oq p {
+  font-size: 24px;
+}
+
+.bolo-principal {
+  text-align: center;
+}
+.bolo-principal h1 {
+  display: flex;
+  justify-content: center;
+}
+.bolo-principal h3 {
+  font-size: 35px;
+  margin: 19px;
+  color: yellow;
+  border-bottom: 3px solid white;
+}
+.bolo-principal p {
+  font-size: 28px;
+  margin: 30px;
+  color: yellow;
+  margin: 30px;
+}
+.bolo-principal .bolo {
+  width: 40%;
+}
+
+.pe-de-moleque-principal {
+  text-align: center;
+}
+.pe-de-moleque-principal h1 {
+  display: flex;
+  justify-content: center;
+}
+.pe-de-moleque-principal h3 {
+  font-size: 35px;
+  margin: 19px;
+  color: yellow;
+  border-bottom: 3px solid white;
+}
+.pe-de-moleque-principal p {
+  font-size: 28px;
+  margin: 30px;
+  color: yellow;
+}
+.pe-de-moleque-principal .pe-de-moleque {
+  width: 40%;
+}
+
+.cocada-principal {
+  text-align: center;
+}
+.cocada-principal h1 {
+  display: flex;
+  justify-content: center;
+}
+.cocada-principal h3 {
+  font-size: 35px;
+  margin: 19px;
+  color: yellow;
+  border-bottom: 5px solid white;
+}
+.cocada-principal p {
+  font-size: 28px;
+  margin: 30px;
+  color: yellow;
+}
+.cocada-principal .cocada {
+  width: 40%;
+}
+
+.botao-venda {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+}
+.botao-venda h3 {
+  background-color: black;
+  border-radius: 40px;
+  margin: 50px;
+  padding: 1.5rem;
+  color: yellow;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+h1 .logo-footer {
+  width: 20%;
+  margin: 10px;
+}/*# sourceMappingURL=style.css.map */
